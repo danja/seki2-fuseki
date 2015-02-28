@@ -31,4 +31,10 @@ git submodule add https://github.com/danja/seki2-fuseki.git fuseki
 git submodule add https://github.com/danja/seki2-openshift.git .openshift
 git submodule add https://github.com/danja/foowiki.git foowiki
 
+git remote add openshift ssh://54f192474382ecdefc00011e@seki2-hyperdata.rhcloud.com/~/git/seki2.git/
+
+check logs:
+ssh in, 
+cd $OPENSHIFT_LOG_DIR 
+
 
