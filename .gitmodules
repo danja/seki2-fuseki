@@ -1,0 +1,9 @@
+[submodule "fuseki"]
+	path = fuseki
+	url = https://github.com/danja/seki2-fuseki.git
+[submodule ".openshift"]
+	path = .openshift
+	url = https://github.com/danja/seki2-openshift.git
+[submodule "foowiki"]
+	path = foowiki
+	url = https://github.com/danja/foowiki.git
