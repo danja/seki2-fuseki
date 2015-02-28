@@ -1,3 +1,9 @@
+# backups
+*~
+*.bak
+backups
+
+
 *.class
 
 # Mobile Tools for Java (J2ME)
